@@ -21,7 +21,7 @@ const handleYesClick = () => {
 
   // Create and style a new button for Let's Go!
   const letsGoBtn = document.createElement("button");
-  letsGoBtn.textContent = "Let's Go!";
+  letsGoBtn.textContent = "Click This!!";
   letsGoBtn.classList.add("letsgo-btn"); // You can add a class for styling if needed
   letsGoBtn.style.position = "absolute";
 
